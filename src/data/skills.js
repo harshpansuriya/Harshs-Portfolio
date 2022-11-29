@@ -3,6 +3,30 @@ export default [
     skill: "Node.js",
   },
   {
+    skill: "HTML",
+  },
+  {
+    skill: "CSS",
+  },
+  {
+    skill: "Sass",
+  },
+  {
+    skill: "Tailwind CSS",
+  },
+  {
+    skill: "JavaScript",
+  },
+  {
+    skill: "C",
+  },
+  {
+    skill: "C++",
+  },
+  {
+    skill: "Java",
+  },
+  {
     skill: "SQL",
   },
   {

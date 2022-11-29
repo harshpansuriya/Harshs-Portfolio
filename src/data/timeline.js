@@ -1,44 +1,50 @@
 export default [
   {
-    year: "Today",
-    title: "Internship",
+    year: "Nov 2022 - Today",
+    title: "Internship in Web Development",
+    company: "Interact Health Pro, Canada",
     duration: "Running",
     details:
       "Currently I'm doing Internship at Interact Health Pro in Toronto, Canada. Where my role is Web Developer. I'm learning new things everyday as well as working with team members excites me a lot.",
   },
   {
-    year: "2021 - 2022",
-    title: "Diploma in Computer Programmer",
+    year: "Jan 2021 - Aug 2022",
+    title: "High School Diploma in Computer Programmer",
+    company: "Lambton College, Canada",
     duration: "2 Years",
     details:
-      "I've Computer Programmer degree with 3.27 GPA. I've completed from Lambton Collage of art and technology in Mississauga. I learn many technical as well as social skills from there.",
+      // "I've Computer Programmer degree with 3.27 GPA. I've completed from Lambton Collage of art and technology in Mississauga. I learn many technical as well as social skills from there.",
+      "During my studies I've learn ..., wokring on .... 3.27 GPA. ",
   },
   {
-    year: "2020 - 2021",
+    year: "Sep 2020 - Dec 2020",
     title: "Jr. Web Developer",
+    company: "Bits Technolabs, India",
     duration: "4 Months",
     details:
-      "In Bits Technolabs I worked as a Jr. Web developer. Where I used to do building web templates in react environment. Also, done some other works for digital marketing such as create posts or manage social media profiles. I've created websites for myself too, such as Portfolio website, News list API, Netflix Clone and more.",
+      "I used to do building web templates in react environment, created websites using react, Javascript, MongoDb, create a posts and managed social media profiles for digital marketing team.",
   },
   {
-    year: "2019 - 2020",
+    year: "Nov 2019 - Feb 2020",
     title: "Assistant Professor",
-    duration: "5 Months",
+    company: "Read and White Multimedia Education, India",
+    duration: "4 Months",
     details:
-      "My most liked job was at Red and White Multimedia as an Assistant Professor Intern. The responsibility I had was to teach student basic code, write documentation, write sample code which can be understandable to the student. My key technologies was Android Studio, Python, and Java. ",
+      "Tought students how to write simple and clean code in Python, HTML, CSS, Javascript, Android Studio.",
   },
   {
-    year: "2018",
+    year: "Jun 2018 - July 2018",
     title: "Internship",
+    company: "Brainstrom Technolabs, India",
     duration: "2 Months",
     details:
-      "My first job was Intern as a Jr. Android Developer at Brainstrom Technolabs from India. It was an Internship as a college student. There I used to make android app and learn how to work in a team. There I've created project for college presentation, which was android application for railway information and hotel booking.",
+      "It was part of co-op team, where I've created projects in Android for college presentation and which was android application for Railway information and Hotel booking.",
   },
   {
-    year: "2016 - 2019",
+    year: "Jun 2016 - Apr 2019",
     title: "Diploma in Computer Engineering",
+    company: "Uka Tarsadiya University, India",
     duration: "3 Years",
-    details:
-      "I've completed Diploma in Computer Engineering from Uka Tarsadiya University in India. It was my first and seccessful step to became a computer programmer.",
+    details: "During my studies I've learn ..., wokring on .... 3.27 GPA.",
   },
 ];

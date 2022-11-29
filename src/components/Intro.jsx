@@ -10,15 +10,11 @@ function Intro() {
         Computer Programmer
       </p>
       <p className="text-sm max-w-xl mb-6 font-bold">
-        Computer Programmer with an excellent problem-solving skills and ability
-        to perform well in team. Passionate about coding and enjoy writing blogs
-        You can read some of them on{" "}
-        <code className="underline">
-          <a href="https://realharsh.medium.com" target="blank_">
-            Medium
-          </a>
-        </code>
-        .
+        Results-driven computer programmer student from Lambton College,
+        passionate about developing user-friendly software applications.
+        Excellent problem-solving skills and ability to perform well in a team.
+        Seeking to help company to develop their product as a software engineer,
+        as well as grow and develop my own skills as a coder.
       </p>
     </div>
   );
