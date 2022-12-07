@@ -20,7 +20,7 @@ function PortfolioItem({ title, imgUrl, stack, link, desc }) {
         <p className="my-2 text-base font-normal text-stone-500 dark:text-stone-400">
           {desc}
         </p>
-        <p className="flex flex-wrap gap-2 flex-row items-center justify-start text-xs md:text-sm dark:text-white ">
+        <p className="mt-4 flex flex-wrap gap-2 flex-row items-center justify-start text-xs md:text-sm dark:text-white ">
           {stack.map((item) => (
             <span className="inline-block px-2 py-1 font-semibold border-2 border-stone-900 dark:border-white rounded-md">
               {item}

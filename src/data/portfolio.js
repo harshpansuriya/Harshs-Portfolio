@@ -7,11 +7,11 @@ export default [
     link: "https://github.com/harshpansuriya",
   },
   {
-    title: "Portfolio",
-    imgUrl: "/assets/portfolio.png",
+    title: "RecipeTheory",
+    imgUrl: "/assets/recipeTheory.png",
     stack: ["React", "Javascript", "TailwindCSS"],
-    desc: "My portfolio...",
-    link: "https://github.com/harshpansuriya",
+    desc: "Find some of the best recipes here, and you'll get new recipe everyday, let's make dinner together 😉.",
+    link: "https://recipetheory.netlify.com",
   },
   {
     title: "Agriculture Automation System",

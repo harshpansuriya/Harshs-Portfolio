@@ -14,7 +14,8 @@ export default [
     duration: "2 Years",
     details:
       // "I've Computer Programmer degree with 3.27 GPA. I've completed from Lambton Collage of art and technology in Mississauga. I learn many technical as well as social skills from there.",
-      "During my studies I've learn ..., wokring on .... 3.27 GPA. ",
+      // "During my studies I've learn ..., wokring on .... 3.27 GPA. ",
+      "During my studies, I've learned SQL, Operating Systems, Web Development, Android Studio, Python, C# and so much more. While studying I created some projects, one of them, the Movie Details Web app using C#.",
   },
   {
     year: "Sep 2020 - Dec 2020",
@@ -45,6 +46,7 @@ export default [
     title: "Diploma in Computer Engineering",
     company: "Uka Tarsadiya University, India",
     duration: "3 Years",
-    details: "During my studies I've learn ..., wokring on .... 3.27 GPA.",
+    details:
+      "From this college, I've learned lots of things such as Web development skills, Android application development, Algorithms, and many programming languages such as Java, C, C++, Python, etc. I've created some projects and one of them is Agriculture Automation System using IoT, and Android technologies.",
   },
 ];
