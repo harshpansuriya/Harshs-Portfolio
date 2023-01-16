@@ -67,7 +67,7 @@ function App() {
     <>
       <a
         className=" absolute md:fixed p-1 z-10 left-10 md:left-20 top-4 border-2 border-stone-900 dark:text-white dark:border-white md:text-lg rounded-md"
-        href="/assets/harshresume.pdf"
+        href="/assets/harsh's.pdf"
         download="Harsh's Resume.pdf"
       >
         Resume
