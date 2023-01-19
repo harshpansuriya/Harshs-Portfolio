@@ -1,6 +1,12 @@
 export default [
   {
-    year: "Nov 2022 - Today",
+    year: "Currently",
+    title: "Co-Founder",
+    company: "Bill Zero",
+    details: "Right now at the position of Co-Founder, learning new things about startup and building daily solutions for people. About this company I'll elaborate soon."
+  },
+  {
+    year: "Nov 2022 - Dec 2022",
     title: "Internship in Web Development",
     company: "Interact Health Pro, Canada",
     duration: "Running",
